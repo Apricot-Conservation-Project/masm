@@ -1,0 +1,8 @@
+/target
+*.msav
+Cargo.lock
+*.wasm
+*.gzip*
+index.html
+out/
+pkg/
