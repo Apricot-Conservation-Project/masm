@@ -10,7 +10,7 @@ edition = "2021"
 
 [dependencies]
 mindus = { version = "5.0.2", default-features = false }
-png = { version = "0.17.10", features = ["unstable"] }
+pngenc = "0.1.0"
 wasm-bindgen = "0.2"
 
 [lib]
