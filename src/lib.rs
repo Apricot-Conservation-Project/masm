@@ -1,4 +1,4 @@
-use mindus::{data::DataRead, Map, Renderable, Schematic, Serializable};
+use mindus::{Map, Renderable, Schematic, Serializable, data::DataRead};
 use wasm_bindgen::prelude::*;
 
 #[wasm_bindgen]
